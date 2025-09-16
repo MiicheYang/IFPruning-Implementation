@@ -1,6 +1,6 @@
 # IFPruning-Implementation
 
-This repository contains an unofficial implementation of the paper "Instruction-Following Pruning for Large Language Models".
+This repository contains an unofficial implementation of the paper "Instruction-Following Pruning for Large Language Models", built on our best understanding of the paper's methods. We are also looking forward to an official implementation from the authors in the future.
 
 This code lets you use the model from the paper for inference. You can run your own data through the model to get results similar to the ones described in the paper. The original dataset isn't open source, so this repo doesn't include any training code. We're hoping to add training support in the future.
 
